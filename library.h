@@ -1,0 +1,6 @@
+#ifndef ASSETPACK_SDK_LIBRARY_H
+#define ASSETPACK_SDK_LIBRARY_H
+
+void hello();
+
+#endif //ASSETPACK_SDK_LIBRARY_H
